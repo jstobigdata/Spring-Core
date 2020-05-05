@@ -4,6 +4,9 @@
 
 > This workspace contains various projects which will help you to implement & improve code style
 
+* Custom Annotations
+* Upcomming
+
 ## Author
 
 👤 **Tanmay**
@@ -13,5 +16,3 @@
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
