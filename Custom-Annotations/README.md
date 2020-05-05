@@ -16,10 +16,11 @@ mvn install
 mvn test
 ```
 ### Run test for specific class
-      <p>This command macthes the pattern testFoo in test class </p>
 ```sh 
 mvn -Dtest=ClassName#testFOO test 
 ```
+ <p>This command macthes the pattern testFoo in test class </p>
+
 ## Author
 
 👤 **Tanmay**
